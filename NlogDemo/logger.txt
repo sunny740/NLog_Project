@@ -1,0 +1,4 @@
+﻿2022-04-20 00:46:37.7849|DEBUG|NlogDemo.Nlog|Debug Successfull : Sum()
+2022-04-20 00:46:38.1790|INFO|NlogDemo.Nlog|Sum Method passed, Result4
+2022-04-21 09:32:04.5968|DEBUG|NlogDemo.Nlog|Debug Successfull : Sum()
+2022-04-21 09:32:05.0688|INFO|NlogDemo.Nlog|Sum Method passed, Result4
